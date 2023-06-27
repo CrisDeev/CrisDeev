@@ -7,7 +7,7 @@
 
 - 💼 Actualmente estoy en busqueda de una oportunidad laboral como desarrollador.
 - 🌱 Siempre estoy en constante aprendizaje y realizando proyectos donde pueda aplicar mis conocimiemtos.
-- 👨‍💻 Mas información y algunos de mis mejores proyectos los puedes encontrar en --> https://cristian-alvarez.vercel.app/
+- 👨‍💻 Mas información y algunos de mis mejores proyectos los puedes encontrar en --> https://cristian-alvarez.vercel.app/ (Working in)
 
 ### Lenguajes y herramientas:
 
