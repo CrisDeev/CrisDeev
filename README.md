@@ -29,6 +29,6 @@
 
  **⭐  Mis estadísticas de Github** <img height="40px" src="https://github.com/images/mona-whisper.gif">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CrisDeev&show_icons=true&theme=github_dark )
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianAlvarezM&show_icons=true&theme=github_dark )
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisDeev&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianAlvarezM&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
