@@ -9,7 +9,7 @@
 - 🌱 Siempre estoy en constante aprendizaje y realizando proyectos donde pueda aplicar mis conocimiemtos.
 
   ### Encuentram en:
-  <a href="www.linkedin.com/in/cristiandeev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="git" width="40" height="30"/> </a>
+  <a href="https://www.linkedin.com/in/cristiandeev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="git" width="40" height="30"/> </a>
   <a href="https://www.instagram.com/cristian22gk/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="git" width="40" height="25"/> </a>
 
 ### Lenguajes y herramientas:
