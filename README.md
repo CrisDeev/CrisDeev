@@ -7,6 +7,7 @@
 
 - 💼 Actualmente estoy en busqueda de una oportunidad laboral como desarrollador.
 - 🌱 Siempre estoy en constante aprendizaje y realizando proyectos donde pueda aplicar mis conocimiemtos.
+- 💻 Mis proyectos los puedes encotrar en --> https://cristian-alvarez.vercel.app/
 
   ### Encuentram en:
   <a href="https://www.linkedin.com/in/cristiandeev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="git" width="40" height="30"/> </a>
