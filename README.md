@@ -2,8 +2,7 @@
 
 ### Un poco sobre mi 🙋‍♂️
 
-:zap: Mi nombre es Cristian, Soy desarrollador web ... </br>
-:computer: He trabajado el mundo del FrontEnd y el BackEnd....
+:zap: Mi nombre es Cristian, Soy egresado de <strong>MindHub LA</strong> como desarrollador web Full Stack MERN, donde realicé proyectos simulando un ambiente laboral real. Durante este tiempo conocí sobre el mundo del Frontend y el Backend, enfocandome mas hacia el lado del Backend. Soy una persona  bastante autodidacta y gracias a esto he podido seguir aprendiendo cada día mas sobre Desarrollo Web.
 
 - 💼 Actualmente estoy en busqueda de una oportunidad laboral como desarrollador.
 - 🌱 Siempre estoy en constante aprendizaje y realizando proyectos donde pueda aplicar mis conocimiemtos.
